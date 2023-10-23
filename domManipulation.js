@@ -18,3 +18,7 @@ const boxes = document.querySelectorAll('.box');
 boxes.forEach(box => {
     console.log(box);
 });
+
+// Selecting elements by tag:
+const divs = document.getElementsByTagName("div");
+console.log(divs);
