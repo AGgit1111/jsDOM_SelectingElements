@@ -1,0 +1,12 @@
+h2 {
+    color: chocolate;
+}
+
+.box {
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+    background: purple;
+    float: left;
+    border: 3px solid black;
+}
